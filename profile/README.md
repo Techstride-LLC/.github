@@ -12,12 +12,6 @@ Welcome to TechStride's public repository! TechStride is an innovative platform 
 - **Jason Nwoke** - Founder & CTO - [LinkedIn](https://www.linkedin.com/in/obinnanwokeii/)
 - **Calvon Spencer** - Security Lead (Platform & Cloud) [LinkedIn](https://www.linkedin.com/in/calvonspencer/)
 
-## 🤝 Contributing
-We welcome contributions! Please fork the repository and submit a pull request. For major changes, open an issue first to discuss what you would like to change.
-
-## 📄 License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
 ## 📧 Contact
 For questions or support, reach out to us at [info@techstride.app](mailto:info@techstride.app)
 
